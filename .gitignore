@@ -1,0 +1,6 @@
+.venv/
+data/
+*.zip
+*.parquet
+.crunchdao/
+.ipynb_checkpoints/
